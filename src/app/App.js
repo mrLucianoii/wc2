@@ -1,9 +1,10 @@
 import React, { Component, Fragment } from "react";
 import { connect } from "react-redux";
-import { isLoadingAction as actions } from "./store/actions";
-import Player from "./features/player/Player";
+import { isLoadingAction as actions } from "../store/actions";
+import Player from "../features/player/Player";
 import logo from "./logo.svg";
 import "./App.css";
+import "./index.css";
 
 class App extends Component {
   componentDidMount() {

@@ -12,6 +12,7 @@
     "react-dom": "^16.8.6",
     "react-jss": "^8.6.1",
     "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
     "react-test-renderer": "^16.8.6",
     "react-youtube": "^7.9.0",
