@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`404 Page: Mounts 1`] = `
+<div>
+  404 page
+</div>
+`;

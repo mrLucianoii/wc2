@@ -8,7 +8,7 @@ import Adapter from 'enzyme-adapter-react-16'
 import Player from "../Player";
 import YouTube from "react-youtube";
 
-Enzyme.configure({ adapter: new Adapter() })
+Enzyme.configure({ adapter: new Adapter() });
 function setup() {
   const props = {
     selectedMovie: 'ELeMaP8EPAA'
