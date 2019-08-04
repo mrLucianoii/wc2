@@ -13,6 +13,71 @@ exports[`App's core rendering tests Renders correctly :) 1`] = `
       src="logo.svg"
     />
     WeCliques say's, "Hello World"
+    <div
+      style={
+        Object {
+          "height": "auto",
+          "width": 660,
+        }
+      }
+    >
+      <div
+        className=""
+      >
+        <div
+          className={null}
+          id={null}
+        />
+      </div>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        Play
+      </button>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        Pause
+      </button>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        Segment Start
+      </button>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        In-Mark
+      </button>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        Out-Mark
+      </button>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        full-play
+      </button>
+    </div>
   </header>
 </div>
 `;
